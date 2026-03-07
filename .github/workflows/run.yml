@@ -2,8 +2,8 @@ name: Maclari Guncelle
 
 on:
   schedule:
-    - cron: '*/15 * * * *'
-  workflow_dispatch:
+    - cron: '*/15 * * * *' # 15 dakikada bir otomatik çalışır
+  workflow_dispatch:      # Manuel çalıştırma butonu
 
 jobs:
   build:
@@ -20,29 +20,28 @@ jobs:
         with:
           python-version: '3.9'
 
-      - name: Kutupahaneleri Yukle
+      - name: Kütüphaneleri Yukle
         run: pip install cloudscraper beautifulsoup4
 
-      - name: Botu Bul ve Calistir
+      - name: Botu Calistir
         run: |
-          # Dosyayı bul ve çalıştır (Nerede olursa olsun)
+          # taraftar.py dosyasını nerede olursa olsun bulup çalıştırır
           SCRIPT_PATH=$(find . -name "taraftar.py" | head -n 1)
-          if [ -z "$SCRIPT_PATH" ]; then
-            echo "❌ HATA: taraftar.py bulunamadı!"
-            exit 1
-          fi
           python "$SCRIPT_PATH"
-          echo "Script başarıyla çalıştı."
 
-      - name: Degeisiklikleri Kaydet
+      - name: Değişiklikleri Kaydet
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          # Eğer JSON dosyası alt klasördeyse onu ana dizine taşıyalım (isteğe bağlı)
-          JSON_PATH=$(find . -name "yayinlar.json" | head -n 1)
-          if [ -n "$JSON_PATH" ]; then
-            cp "$JSON_PATH" ./yayinlar.json
+          
+          # Eğer JSON alt klasördeyse ana dizine çekelim, değilse hata vermesin
+          find . -name "yayinlar.json" -not -path "./yayinlar.json" -exec cp {} ./yayinlar.json \; || true
+          
+          if [ -f "yayinlar.json" ]; then
+            git add yayinlar.json
+            git commit -m "Yayinlar guncellendi: $(date)" || echo "Değişiklik yok."
+            git push
+          else
+            echo "❌ Hata: yayinlar.json oluşturulamadı!"
+            exit 1
           fi
-          git add yayinlar.json
-          git commit -m "Yayinlar guncellendi: $(date)" || echo "Değişiklik yok"
-          git push
