@@ -2,31 +2,45 @@ name: Maclari Guncelle
 
 on:
   schedule:
-    - cron: '*/15 * * * *' # Her 15 dakikada bir otomatik çalışır
-  workflow_dispatch: # İstersen elinle de başlatabilirsin
+    - cron: '*/15 * * * *' # 15 dakikada bir çalışır
+  workflow_dispatch:      # Manuel başlatma butonu açar
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    # Yazma izni veriyoruz (json dosyasını kaydedebilmesi için şart)
+    permissions:
+      contents: write
+      
     steps:
-      - name: Kodları Çek
-        uses: actions/checkout@v2
+      - name: Depoyu Klonla (Checkout)
+        uses: actions/checkout@v3
 
       - name: Python Kur
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: '3.9'
 
       - name: Kütüphaneleri Yükle
-        run: pip install cloudscraper beautifulsoup4
+        run: |
+          python -m pip install --upgrade pip
+          pip install cloudscraper beautifulsoup4
 
       - name: Botu Çalıştır
-        run: python taraftar.py
+        # Dosyayı hem olduğu yerde hem de alt dizinlerde arayıp çalıştıran komut
+        run: |
+          if [ -f "taraftar.py" ]; then
+            python taraftar.py
+          else
+            echo "❌ Dosya ana dizinde bulunamadı, arama yapılıyor..."
+            find . -name "taraftar.py" -exec python {} +
+          fi
 
-      - name: Değişiklikleri Kaydet
+      - name: Değişiklikleri Commit Et ve Pushla
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add yayinlar.json
-          git commit -m "Yayinlar guncellendi" || exit 0
+          git commit -m "Yayinlar guncellendi: $(date)" || echo "Değişiklik yok"
           git push
