@@ -2,19 +2,17 @@ name: Maclari Guncelle
 
 on:
   schedule:
-    - cron: '*/15 * * * *' # 15 dakikada bir çalışır
-  workflow_dispatch:      # Manuel başlatma butonu açar
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    
-    # Yazma izni veriyoruz (json dosyasını kaydedebilmesi için şart)
     permissions:
       contents: write
       
     steps:
-      - name: Depoyu Klonla (Checkout)
+      - name: Kodlari Cek
         uses: actions/checkout@v3
 
       - name: Python Kur
@@ -22,25 +20,29 @@ jobs:
         with:
           python-version: '3.9'
 
-      - name: Kütüphaneleri Yükle
-        run: |
-          python -m pip install --upgrade pip
-          pip install cloudscraper beautifulsoup4
+      - name: Kutupahaneleri Yukle
+        run: pip install cloudscraper beautifulsoup4
 
-      - name: Botu Çalıştır
-        # Dosyayı hem olduğu yerde hem de alt dizinlerde arayıp çalıştıran komut
+      - name: Botu Bul ve Calistir
         run: |
-          if [ -f "taraftar.py" ]; then
-            python taraftar.py
-          else
-            echo "❌ Dosya ana dizinde bulunamadı, arama yapılıyor..."
-            find . -name "taraftar.py" -exec python {} +
+          # Dosyayı bul ve çalıştır (Nerede olursa olsun)
+          SCRIPT_PATH=$(find . -name "taraftar.py" | head -n 1)
+          if [ -z "$SCRIPT_PATH" ]; then
+            echo "❌ HATA: taraftar.py bulunamadı!"
+            exit 1
           fi
+          python "$SCRIPT_PATH"
+          echo "Script başarıyla çalıştı."
 
-      - name: Değişiklikleri Commit Et ve Pushla
+      - name: Degeisiklikleri Kaydet
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          # Eğer JSON dosyası alt klasördeyse onu ana dizine taşıyalım (isteğe bağlı)
+          JSON_PATH=$(find . -name "yayinlar.json" | head -n 1)
+          if [ -n "$JSON_PATH" ]; then
+            cp "$JSON_PATH" ./yayinlar.json
+          fi
           git add yayinlar.json
           git commit -m "Yayinlar guncellendi: $(date)" || echo "Değişiklik yok"
           git push
