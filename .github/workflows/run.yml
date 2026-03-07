@@ -1,29 +1,32 @@
-name: Run Python PDF Generator
+name: Maclari Guncelle
 
 on:
-  workflow_dispatch:
-  push:
-    branches: [ main ]
+  schedule:
+    - cron: '*/15 * * * *' # Her 15 dakikada bir otomatik çalışır
+  workflow_dispatch: # İstersen elinle de başlatabilirsin
 
 jobs:
-  run:
+  build:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v4
+      - name: Kodları Çek
+        uses: actions/checkout@v2
 
-      - uses: actions/setup-python@v5
+      - name: Python Kur
+        uses: actions/setup-python@v2
         with:
-          python-version: '3.10'
+          python-version: '3.9'
 
-      - name: Install dependencies
-        run: pip install -r requirements.txt
+      - name: Kütüphaneleri Yükle
+        run: pip install cloudscraper beautifulsoup4
 
-      - name: Run script
-        run: python main.py
+      - name: Botu Çalıştır
+        run: python taraftar.py
 
-      - name: Upload PDF
-        uses: actions/upload-artifact@v4
-        with:
-          name: result-pdf
-          path: output/result.pdf
+      - name: Değişiklikleri Kaydet
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add yayinlar.json
+          git commit -m "Yayinlar guncellendi" || exit 0
+          git push
