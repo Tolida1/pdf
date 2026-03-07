@@ -1,1 +1,386 @@
-[]
+[
+    {
+        "saat": "CANLI",
+        "baslik": "Bein Sports 1",
+        "tur": "Spor",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xbeinsports-1/playlist.m3u8"
+    },
+    {
+        "saat": "CANLI",
+        "baslik": "Bein Sports 2",
+        "tur": "Spor",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xbeinsports-2/playlist.m3u8"
+    },
+    {
+        "saat": "CANLI",
+        "baslik": "Bein Sports 3",
+        "tur": "Spor",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xbeinsports-3/playlist.m3u8"
+    },
+    {
+        "saat": "CANLI",
+        "baslik": "Bein Sports 4",
+        "tur": "Spor",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xbeinsports-4/playlist.m3u8"
+    },
+    {
+        "saat": "CANLI",
+        "baslik": "Bein Sports 5",
+        "tur": "Spor",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xbeinsports-5/playlist.m3u8"
+    },
+    {
+        "saat": "CANLI",
+        "baslik": "Bein Sports Max 1",
+        "tur": "Spor",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xbeinsportsmax-1/playlist.m3u8"
+    },
+    {
+        "saat": "CANLI",
+        "baslik": "Bein Sports Max 2",
+        "tur": "Spor",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xbeinsportsmax-2/playlist.m3u8"
+    },
+    {
+        "saat": "CANLI",
+        "baslik": "Tivibu Spor 1",
+        "tur": "Spor",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtivibuspor-1/playlist.m3u8"
+    },
+    {
+        "saat": "CANLI",
+        "baslik": "Tivibu Spor 2",
+        "tur": "Spor",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtivibuspor-2/playlist.m3u8"
+    },
+    {
+        "saat": "CANLI",
+        "baslik": "Tivibu Spor 3",
+        "tur": "Spor",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtivibuspor-3/playlist.m3u8"
+    },
+    {
+        "saat": "CANLI",
+        "baslik": "Tivibu Spor 4",
+        "tur": "Spor",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtivibuspor-4/playlist.m3u8"
+    },
+    {
+        "saat": "CANLI",
+        "baslik": "S Sport",
+        "tur": "Spor",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xssport/playlist.m3u8"
+    },
+    {
+        "saat": "CANLI",
+        "baslik": "S Sport 2",
+        "tur": "Spor",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xssport2/playlist.m3u8"
+    },
+    {
+        "saat": "CANLI",
+        "baslik": "Smart Spor HD",
+        "tur": "Spor",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xsmartspor/playlist.m3u8"
+    },
+    {
+        "saat": "CANLI",
+        "baslik": "TRT 1",
+        "tur": "Spor",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xbeinsports-1/playlist.m3u8"
+    },
+    {
+        "saat": "CANLI",
+        "baslik": "TV8",
+        "tur": "Spor",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtv8/playlist.m3u8"
+    },
+    {
+        "saat": "CANLI",
+        "baslik": "TV 8 Buçuk",
+        "tur": "Spor",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/tv85/playlist.m3u8"
+    },
+    {
+        "saat": "CANLI",
+        "baslik": "tabii Spor",
+        "tur": "Spor",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtabiispor1/playlist.m3u8"
+    },
+    {
+        "saat": "CANLI",
+        "baslik": "tabii Spor 1",
+        "tur": "Spor",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtabiispor2/playlist.m3u8"
+    },
+    {
+        "saat": "CANLI",
+        "baslik": "tabii Spor 2",
+        "tur": "Spor",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtabiispor3/playlist.m3u8"
+    },
+    {
+        "saat": "CANLI",
+        "baslik": "tabii Spor 3",
+        "tur": "Spor",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtabiispor4/playlist.m3u8"
+    },
+    {
+        "saat": "CANLI",
+        "baslik": "tabii Spor 4",
+        "tur": "Spor",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtabiispor5/playlist.m3u8"
+    },
+    {
+        "saat": "CANLI",
+        "baslik": "tabii Spor 5",
+        "tur": "Spor",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtabiispor6/playlist.m3u8"
+    },
+    {
+        "saat": "CANLI",
+        "baslik": "tabii Spor 6",
+        "tur": "Spor",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtabiispor7/playlist.m3u8"
+    },
+    {
+        "saat": "CANLI",
+        "baslik": "tabii Spor 7",
+        "tur": "Spor",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtabiispor8/playlist.m3u8"
+    },
+    {
+        "saat": "08:00",
+        "baslik": "Tayvan - Vietnam",
+        "tur": "Futbol",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xsmartspor/playlist.m3u8"
+    },
+    {
+        "saat": "13:30",
+        "baslik": "Sivasspor - Keçiörengücü",
+        "tur": "Futbol",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xbeinsportsmax-2/playlist.m3u8"
+    },
+    {
+        "saat": "14:00",
+        "baslik": "Hindistan - Japonya",
+        "tur": "Futbol",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xsmartspor/playlist.m3u8"
+    },
+    {
+        "saat": "15:00",
+        "baslik": "Darmstadt 98 - Holstein Kiel",
+        "tur": "Futbol",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtivibuspor-3/playlist.m3u8"
+    },
+    {
+        "saat": "15:00",
+        "baslik": "Nürnberg - Fortuna Düsseldorf",
+        "tur": "Futbol",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtivibuspor-4/playlist.m3u8"
+    },
+    {
+        "saat": "15:00",
+        "baslik": "Paderborn - Braunschweig",
+        "tur": "Futbol",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtivibuspor-2/playlist.m3u8"
+    },
+    {
+        "saat": "15:15",
+        "baslik": "Mansfield - Arsenal",
+        "tur": "Futbol",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtabiispor1/playlist.m3u8"
+    },
+    {
+        "saat": "16:00",
+        "baslik": "Rams Başakşehir - Göztepe",
+        "tur": "Futbol",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xbeinsports-2/playlist.m3u8"
+    },
+    {
+        "saat": "16:00",
+        "baslik": "Bandırmaspor - İstanbulspor",
+        "tur": "Futbol",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xbeinsportsmax-2/playlist.m3u8"
+    },
+    {
+        "saat": "16:00",
+        "baslik": "Osasuna - Mallorca",
+        "tur": "Futbol",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xssport/playlist.m3u8"
+    },
+    {
+        "saat": "17:00",
+        "baslik": "Cagliari - Como",
+        "tur": "Futbol",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtivibuspor-1/playlist.m3u8"
+    },
+    {
+        "saat": "17:30",
+        "baslik": "Freiburg - Bayer Leverkusen",
+        "tur": "Futbol",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtivibuspor-2/playlist.m3u8"
+    },
+    {
+        "saat": "17:30",
+        "baslik": "Heidenheim - Hoffenheim",
+        "tur": "Futbol",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtivibuspor-3/playlist.m3u8"
+    },
+    {
+        "saat": "18:15",
+        "baslik": "Levante - Girona",
+        "tur": "Futbol",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xssport/playlist.m3u8"
+    },
+    {
+        "saat": "18:30",
+        "baslik": "Groningen - Ajax",
+        "tur": "Futbol",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtivibuspor-4/playlist.m3u8"
+    },
+    {
+        "saat": "19:00",
+        "baslik": "Nantes - Angers",
+        "tur": "Futbol",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xbeinsports-3/playlist.m3u8"
+    },
+    {
+        "saat": "20:00",
+        "baslik": "Beşiktaş - Galatasaray",
+        "tur": "Futbol",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xbeinsports-1/playlist.m3u8"
+    },
+    {
+        "saat": "20:00",
+        "baslik": "Atalanta - Udinese",
+        "tur": "Futbol",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtivibuspor-1/playlist.m3u8"
+    },
+    {
+        "saat": "20:30",
+        "baslik": "Atletico Madrid - Real Sociedad",
+        "tur": "Futbol",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xssport/playlist.m3u8"
+    },
+    {
+        "saat": "20:30",
+        "baslik": "Köln - B.Dortmund",
+        "tur": "Futbol",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtivibuspor-2/playlist.m3u8"
+    },
+    {
+        "saat": "20:45",
+        "baslik": "Wrexham - Chelsea",
+        "tur": "Futbol",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtabiispor1/playlist.m3u8"
+    },
+    {
+        "saat": "21:00",
+        "baslik": "Auxerre - Strasbourg",
+        "tur": "Futbol",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xbeinsports-3/playlist.m3u8"
+    },
+    {
+        "saat": "21:00",
+        "baslik": "Braga - Sporting Lisbon",
+        "tur": "Futbol",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtivibuspor-3/playlist.m3u8"
+    },
+    {
+        "saat": "22:00",
+        "baslik": "PSV - AZ Alkmaar",
+        "tur": "Futbol",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtivibuspor-4/playlist.m3u8"
+    },
+    {
+        "saat": "22:00",
+        "baslik": "Kuzey İrlanda - Türkiye",
+        "tur": "Futbol",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtabiispor7/playlist.m3u8"
+    },
+    {
+        "saat": "22:00",
+        "baslik": "St. Etienne - Red Star",
+        "tur": "Futbol",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xbeinsports-5/playlist.m3u8"
+    },
+    {
+        "saat": "22:30",
+        "baslik": "Bochum - Kaiserslautern",
+        "tur": "Futbol",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtivibuspor-2/playlist.m3u8"
+    },
+    {
+        "saat": "22:45",
+        "baslik": "Juventus - Pisa",
+        "tur": "Futbol",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtivibuspor-1/playlist.m3u8"
+    },
+    {
+        "saat": "23:00",
+        "baslik": "Athletic Bilbao - Barcelona",
+        "tur": "Futbol",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xssport/playlist.m3u8"
+    },
+    {
+        "saat": "23:00",
+        "baslik": "Newcastle - Manchester City",
+        "tur": "Futbol",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtabiispor1/playlist.m3u8"
+    },
+    {
+        "saat": "23:05",
+        "baslik": "Toulouse - Marsilya",
+        "tur": "Futbol",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xbeinsports-3/playlist.m3u8"
+    },
+    {
+        "saat": "03:00",
+        "baslik": "Miami Heat - Charlotte Hornets",
+        "tur": "Basketbol",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xssport/playlist.m3u8"
+    },
+    {
+        "saat": "05:30",
+        "baslik": "SA Spurs - LA Clippers",
+        "tur": "Basketbol",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xssport/playlist.m3u8"
+    },
+    {
+        "saat": "13:00",
+        "baslik": "Galatasaray MCT Technic - Türk Telekom",
+        "tur": "Basketbol",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xbeinsports-5/playlist.m3u8"
+    },
+    {
+        "saat": "15:30",
+        "baslik": "Petkimspor - Büyükçekmece",
+        "tur": "Basketbol",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xbeinsports-5/playlist.m3u8"
+    },
+    {
+        "saat": "18:00",
+        "baslik": "Bahçeşehir Klj - Bursaspor",
+        "tur": "Basketbol",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xbeinsports-5/playlist.m3u8"
+    },
+    {
+        "saat": "14:00",
+        "baslik": "Prieto/Fallada - Martin/Fernandez",
+        "tur": "Spor",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xbeinsports-4/playlist.m3u8"
+    },
+    {
+        "saat": "16:00",
+        "baslik": "Ruiz/Sanz - Chingotto/Galan",
+        "tur": "Spor",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xbeinsports-4/playlist.m3u8"
+    },
+    {
+        "saat": "18:00",
+        "baslik": "Senesi/Pons - Alcorisa/Jensen",
+        "tur": "Spor",
+        "m3u8": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xbeinsportsmax-1/playlist.m3u8"
+    }
+]
