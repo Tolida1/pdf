@@ -5,7 +5,7 @@
         "item": [
             {
                 "service": "iptv",
-                "title": "Machida - Gangwon",
+                "title": "Japonya - Vietnam",
                 "playlistURL": "",
                 "media_url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xsmartspor/playlist.m3u8",
                 "url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xsmartspor/playlist.m3u8",
@@ -20,7 +20,7 @@
                 "h5Key": "0",
                 "h5Val": "0",
                 "thumb_square": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Football_Pictogram.svg/1200px-Football_Pictogram.svg.png",
-                "group": "13:00"
+                "group": "12:00"
             },
             {
                 "service": "iptv",
@@ -81,29 +81,10 @@
             },
             {
                 "service": "iptv",
-                "title": "Al Ittihad - Al Wahda",
+                "title": "Atalanta - Bayern Münih",
                 "playlistURL": "",
-                "media_url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xsmartspor/playlist.m3u8",
-                "url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xsmartspor/playlist.m3u8",
-                "h1Key": "accept",
-                "h1Val": "*/*",
-                "h2Key": "referer",
-                "h2Val": "https://www.xsportv-44fc2b2514.xyz/",
-                "h3Key": "origin",
-                "h3Val": "https://www.xsportv-44fc2b2514.xyz/",
-                "h4Key": "0",
-                "h4Val": "0",
-                "h5Key": "0",
-                "h5Val": "0",
-                "thumb_square": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Football_Pictogram.svg/1200px-Football_Pictogram.svg.png",
-                "group": "21:15"
-            },
-            {
-                "service": "iptv",
-                "title": "Newcastle - Barcelona",
-                "playlistURL": "",
-                "media_url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtabiispor1/playlist.m3u8",
-                "url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtabiispor1/playlist.m3u8",
+                "media_url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtabiispor2/playlist.m3u8",
+                "url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtabiispor2/playlist.m3u8",
                 "h1Key": "accept",
                 "h1Val": "*/*",
                 "h2Key": "referer",
@@ -138,10 +119,10 @@
             },
             {
                 "service": "iptv",
-                "title": "Atalanta - Bayern Münih",
+                "title": "Newcastle - Barcelona",
                 "playlistURL": "",
-                "media_url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtabiispor2/playlist.m3u8",
-                "url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtabiispor2/playlist.m3u8",
+                "media_url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtabiispor1/playlist.m3u8",
+                "url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtabiispor1/playlist.m3u8",
                 "h1Key": "accept",
                 "h1Val": "*/*",
                 "h2Key": "referer",
