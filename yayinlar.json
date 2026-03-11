@@ -5,7 +5,7 @@
         "item": [
             {
                 "service": "iptv",
-                "title": "Hiroshima - Johor Darul",
+                "title": "Vissel Kobe - FC Seoul",
                 "playlistURL": "",
                 "media_url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xsmartspor/playlist.m3u8",
                 "url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xsmartspor/playlist.m3u8",
@@ -81,10 +81,10 @@
             },
             {
                 "service": "iptv",
-                "title": "Al Nassr Riyadh - Al Wasl",
+                "title": "Bodo Glimt - Sporting Lisbon",
                 "playlistURL": "",
-                "media_url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xsmartspor/playlist.m3u8",
-                "url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xsmartspor/playlist.m3u8",
+                "media_url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtabiispor3/playlist.m3u8",
+                "url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtabiispor3/playlist.m3u8",
                 "h1Key": "accept",
                 "h1Val": "*/*",
                 "h2Key": "referer",
@@ -96,7 +96,7 @@
                 "h5Key": "0",
                 "h5Val": "0",
                 "thumb_square": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Football_Pictogram.svg/1200px-Football_Pictogram.svg.png",
-                "group": "21:15"
+                "group": "23:00"
             },
             {
                 "service": "iptv",
@@ -138,10 +138,10 @@
             },
             {
                 "service": "iptv",
-                "title": "Bodo Glimt - Sporting Lisbon",
+                "title": "Argentinos Jrs. - Rosario Central",
                 "playlistURL": "",
-                "media_url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtabiispor3/playlist.m3u8",
-                "url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtabiispor3/playlist.m3u8",
+                "media_url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xsmartspor/playlist.m3u8",
+                "url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xsmartspor/playlist.m3u8",
                 "h1Key": "accept",
                 "h1Val": "*/*",
                 "h2Key": "referer",
@@ -153,7 +153,7 @@
                 "h5Key": "0",
                 "h5Val": "0",
                 "thumb_square": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Football_Pictogram.svg/1200px-Football_Pictogram.svg.png",
-                "group": "23:00"
+                "group": "23:30"
             }
         ]
     }
