@@ -25,7 +25,7 @@ def maclari_kaydet():
     json_path = os.path.join(base_path, "yayinlar.json")
     
     # Sabit Referer ve Origin Adresi
-    sabit_adres = "https://www.xsportv-44fc2b2514.xyz/"
+    sabit_adres = "https://www.xsportv-0c5b61793b.xyz/"
     
     try:
         response = scraper.get(sabit_adres, timeout=30)
