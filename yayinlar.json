@@ -5,10 +5,10 @@
         "item": [
             {
                 "service": "iptv",
-                "title": "Çorum FK - Bodrumspor",
+                "title": "Ç.Rizespor - Beşiktaş",
                 "playlistURL": "",
-                "media_url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtrtspor/playlist.m3u8",
-                "url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtrtspor/playlist.m3u8",
+                "media_url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xbeinsports-1/playlist.m3u8",
+                "url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xbeinsports-1/playlist.m3u8",
                 "h1Key": "accept",
                 "h1Val": "*/*",
                 "h2Key": "referer",
@@ -24,10 +24,10 @@
             },
             {
                 "service": "iptv",
-                "title": "Ç.Rizespor - Beşiktaş",
+                "title": "Çorum FK - Bodrumspor",
                 "playlistURL": "",
-                "media_url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xbeinsports-1/playlist.m3u8",
-                "url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xbeinsports-1/playlist.m3u8",
+                "media_url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtrtspor/playlist.m3u8",
+                "url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xtrtspor/playlist.m3u8",
                 "h1Key": "accept",
                 "h1Val": "*/*",
                 "h2Key": "referer",
