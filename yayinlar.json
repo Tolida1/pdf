@@ -5,7 +5,7 @@
         "item": [
             {
                 "service": "iptv",
-                "title": "Bahia - Corinthians",
+                "title": "Deportivo Riestra - Boca Juniors",
                 "playlistURL": "",
                 "media_url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xsmartspor/playlist.m3u8",
                 "url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/xsmartspor/playlist.m3u8",
@@ -20,7 +20,7 @@
                 "h5Key": "0",
                 "h5Val": "0",
                 "thumb_square": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Football_Pictogram.svg/1200px-Football_Pictogram.svg.png",
-                "group": "22:00"
+                "group": "01:30"
             }
         ]
     }
