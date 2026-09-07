@@ -5,10 +5,10 @@
         "item": [
             {
                 "service": "iptv",
-                "title": "Cagliari - Lecce",
+                "title": "AEK - LASK Linz",
                 "playlistURL": "",
-                "media_url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/ssport2/playlist.m3u8",
-                "url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/ssport2/playlist.m3u8",
+                "media_url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/tabiispor1/playlist.m3u8",
+                "url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/tabiispor1/playlist.m3u8",
                 "h1Key": "accept",
                 "h1Val": "*/*",
                 "h2Key": "referer",
@@ -20,14 +20,14 @@
                 "h5Key": "0",
                 "h5Val": "0",
                 "thumb_square": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Football_Pictogram.svg/1200px-Football_Pictogram.svg.png",
-                "group": "19:30"
+                "group": "19:45"
             },
             {
                 "service": "iptv",
-                "title": "Mardin 1969 - Bodrumspor",
+                "title": "Club Brugge - Aston Villa",
                 "playlistURL": "",
-                "media_url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/beinsportsmax2/playlist.m3u8",
-                "url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/beinsportsmax2/playlist.m3u8",
+                "media_url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/tabiispor2/playlist.m3u8",
+                "url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/tabiispor2/playlist.m3u8",
                 "h1Key": "accept",
                 "h1Val": "*/*",
                 "h2Key": "referer",
@@ -39,14 +39,14 @@
                 "h5Key": "0",
                 "h5Val": "0",
                 "thumb_square": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Football_Pictogram.svg/1200px-Football_Pictogram.svg.png",
-                "group": "20:00"
+                "group": "19:45"
             },
             {
                 "service": "iptv",
-                "title": "Manisa FK - Bursaspor",
+                "title": "Borussia Dortmund - Villarreal",
                 "playlistURL": "",
-                "media_url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/trtspor/playlist.m3u8",
-                "url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/trtspor/playlist.m3u8",
+                "media_url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/tabiispor3/playlist.m3u8",
+                "url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/tabiispor3/playlist.m3u8",
                 "h1Key": "accept",
                 "h1Val": "*/*",
                 "h2Key": "referer",
@@ -58,14 +58,14 @@
                 "h5Key": "0",
                 "h5Val": "0",
                 "thumb_square": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Football_Pictogram.svg/1200px-Football_Pictogram.svg.png",
-                "group": "20:00"
+                "group": "22:00"
             },
             {
                 "service": "iptv",
-                "title": "Göztepe - Gaziantep FK",
+                "title": "Porto - Manchester City",
                 "playlistURL": "",
-                "media_url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/beinsports2/playlist.m3u8",
-                "url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/beinsports2/playlist.m3u8",
+                "media_url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/tabiispor2/playlist.m3u8",
+                "url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/tabiispor2/playlist.m3u8",
                 "h1Key": "accept",
                 "h1Val": "*/*",
                 "h2Key": "referer",
@@ -77,14 +77,14 @@
                 "h5Key": "0",
                 "h5Val": "0",
                 "thumb_square": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Football_Pictogram.svg/1200px-Football_Pictogram.svg.png",
-                "group": "20:00"
+                "group": "22:00"
             },
             {
                 "service": "iptv",
-                "title": "Ç.Rizespor - Alanyaspor",
+                "title": "Lille - Real Betis",
                 "playlistURL": "",
-                "media_url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/beinsports1/playlist.m3u8",
-                "url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/beinsports1/playlist.m3u8",
+                "media_url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/tabiispor4/playlist.m3u8",
+                "url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/tabiispor4/playlist.m3u8",
                 "h1Key": "accept",
                 "h1Val": "*/*",
                 "h2Key": "referer",
@@ -96,14 +96,14 @@
                 "h5Key": "0",
                 "h5Val": "0",
                 "thumb_square": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Football_Pictogram.svg/1200px-Football_Pictogram.svg.png",
-                "group": "20:00"
+                "group": "22:00"
             },
             {
                 "service": "iptv",
-                "title": "Getafe - Celta Vigo",
+                "title": "Real Madrid - Inter",
                 "playlistURL": "",
-                "media_url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/ssport/playlist.m3u8",
-                "url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/ssport/playlist.m3u8",
+                "media_url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/tabiispor1/playlist.m3u8",
+                "url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/tabiispor1/playlist.m3u8",
                 "h1Key": "accept",
                 "h1Val": "*/*",
                 "h2Key": "referer",
@@ -115,64 +115,7 @@
                 "h5Key": "0",
                 "h5Val": "0",
                 "thumb_square": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Football_Pictogram.svg/1200px-Football_Pictogram.svg.png",
-                "group": "20:00"
-            },
-            {
-                "service": "iptv",
-                "title": "Udinese - Lazio",
-                "playlistURL": "",
-                "media_url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/ssport2/playlist.m3u8",
-                "url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/ssport2/playlist.m3u8",
-                "h1Key": "accept",
-                "h1Val": "*/*",
-                "h2Key": "referer",
-                "h2Val": "https://www.xsportv-0c5b61793b.xyz/",
-                "h3Key": "origin",
-                "h3Val": "https://www.xsportv-0c5b61793b.xyz/",
-                "h4Key": "0",
-                "h4Val": "0",
-                "h5Key": "0",
-                "h5Val": "0",
-                "thumb_square": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Football_Pictogram.svg/1200px-Football_Pictogram.svg.png",
-                "group": "21:45"
-            },
-            {
-                "service": "iptv",
-                "title": "Nantes - Nancy",
-                "playlistURL": "",
-                "media_url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/beinsports4/playlist.m3u8",
-                "url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/beinsports4/playlist.m3u8",
-                "h1Key": "accept",
-                "h1Val": "*/*",
-                "h2Key": "referer",
-                "h2Val": "https://www.xsportv-0c5b61793b.xyz/",
-                "h3Key": "origin",
-                "h3Val": "https://www.xsportv-0c5b61793b.xyz/",
-                "h4Key": "0",
-                "h4Val": "0",
-                "h5Key": "0",
-                "h5Val": "0",
-                "thumb_square": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Football_Pictogram.svg/1200px-Football_Pictogram.svg.png",
-                "group": "21:45"
-            },
-            {
-                "service": "iptv",
-                "title": "Elche - Real Sociedad",
-                "playlistURL": "",
-                "media_url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/ssport/playlist.m3u8",
-                "url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/ssport/playlist.m3u8",
-                "h1Key": "accept",
-                "h1Val": "*/*",
-                "h2Key": "referer",
-                "h2Val": "https://www.xsportv-0c5b61793b.xyz/",
-                "h3Key": "origin",
-                "h3Val": "https://www.xsportv-0c5b61793b.xyz/",
-                "h4Key": "0",
-                "h4Val": "0",
-                "h5Key": "0",
-                "h5Val": "0",
-                "thumb_square": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Football_Pictogram.svg/1200px-Football_Pictogram.svg.png",
-                "group": "22:30"
+                "group": "22:00"
             }
         ]
     }
