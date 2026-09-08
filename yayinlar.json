@@ -5,7 +5,7 @@
         "item": [
             {
                 "service": "iptv",
-                "title": "Club Brugge - Aston Villa",
+                "title": "Borussia Dortmund - Villarreal",
                 "playlistURL": "",
                 "media_url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/tabiispor2/playlist.m3u8",
                 "url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/tabiispor2/playlist.m3u8",
@@ -20,11 +20,11 @@
                 "h5Key": "0",
                 "h5Val": "0",
                 "thumb_square": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Football_Pictogram.svg/1200px-Football_Pictogram.svg.png",
-                "group": "19:45"
+                "group": "22:00"
             },
             {
                 "service": "iptv",
-                "title": "AEK - LASK Linz",
+                "title": "Porto - Manchester City",
                 "playlistURL": "",
                 "media_url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/tabiispor1/playlist.m3u8",
                 "url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/tabiispor1/playlist.m3u8",
@@ -39,11 +39,11 @@
                 "h5Key": "0",
                 "h5Val": "0",
                 "thumb_square": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Football_Pictogram.svg/1200px-Football_Pictogram.svg.png",
-                "group": "19:45"
+                "group": "22:00"
             },
             {
                 "service": "iptv",
-                "title": "Borussia Dortmund - Villarreal",
+                "title": "Lille - Real Betis",
                 "playlistURL": "",
                 "media_url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/tabiispor3/playlist.m3u8",
                 "url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/tabiispor3/playlist.m3u8",
@@ -62,48 +62,10 @@
             },
             {
                 "service": "iptv",
-                "title": "Porto - Manchester City",
-                "playlistURL": "",
-                "media_url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/tabiispor2/playlist.m3u8",
-                "url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/tabiispor2/playlist.m3u8",
-                "h1Key": "accept",
-                "h1Val": "*/*",
-                "h2Key": "referer",
-                "h2Val": "https://www.xsportv-0c5b61793b.xyz/",
-                "h3Key": "origin",
-                "h3Val": "https://www.xsportv-0c5b61793b.xyz/",
-                "h4Key": "0",
-                "h4Val": "0",
-                "h5Key": "0",
-                "h5Val": "0",
-                "thumb_square": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Football_Pictogram.svg/1200px-Football_Pictogram.svg.png",
-                "group": "22:00"
-            },
-            {
-                "service": "iptv",
-                "title": "Lille - Real Betis",
-                "playlistURL": "",
-                "media_url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/tabiispor4/playlist.m3u8",
-                "url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/tabiispor4/playlist.m3u8",
-                "h1Key": "accept",
-                "h1Val": "*/*",
-                "h2Key": "referer",
-                "h2Val": "https://www.xsportv-0c5b61793b.xyz/",
-                "h3Key": "origin",
-                "h3Val": "https://www.xsportv-0c5b61793b.xyz/",
-                "h4Key": "0",
-                "h4Val": "0",
-                "h5Key": "0",
-                "h5Val": "0",
-                "thumb_square": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Football_Pictogram.svg/1200px-Football_Pictogram.svg.png",
-                "group": "22:00"
-            },
-            {
-                "service": "iptv",
                 "title": "Real Madrid - Inter",
                 "playlistURL": "",
-                "media_url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/tabiispor1/playlist.m3u8",
-                "url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/tabiispor1/playlist.m3u8",
+                "media_url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/tabiispor/playlist.m3u8",
+                "url": "https://dga1op10s1u3leo.7af32068d38fdf.click/live/tabiispor/playlist.m3u8",
                 "h1Key": "accept",
                 "h1Val": "*/*",
                 "h2Key": "referer",
